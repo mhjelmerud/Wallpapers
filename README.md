@@ -1,6 +1,6 @@
 # Install
 
-cd ~/Pictures/Wallpapers
+cd ~/Pictures/
 git clone --depth=1 https://github.com/mhjelmerud/Wallpapers.git
 cd Wallpapers/
 
